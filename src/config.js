@@ -44,13 +44,13 @@ export const moreInfo =
 export const skillData = [
   {
     id: 1,
-    skill: <Icon icon="mdi:language-html5" className="display-4" />,
-    name: "HTML5",
+    skill: <Icon icon="mdi:unity" className="display-4" />,  // Replace with the actual icon identifier for Unity
+    name: "Unity",
   },
   {
     id: 2,
-    skill: <Icon icon="ion:logo-css3" className="display-4" />,
-    name: "CSS3",
+    skill: <Icon icon="mdi:language-csharp" className="display-4" />,  // Replace with the actual icon identifier for C#
+    name: "C#",
   },
   {
     id: 3,
