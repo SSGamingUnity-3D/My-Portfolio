@@ -6,7 +6,7 @@ A performant, accessible, progressive React portfolio template that uses the [Gi
 
 Add your GitHub username once and all of your info will automatically be updated. Deploy to GitHub pages in a few simple steps.
 
-## [Live Demo](https://mshuber1981.github.io/github-react-portfolio-template/#/)
+## [Live Demo]()
 
 [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 
@@ -37,7 +37,7 @@ Add your GitHub username once and all of your info will automatically be updated
    ************************************************************** 
      Add your GitHub username (string - "YourUsername") below.
    */
-   export const githubUsername = "Salman Khan";
+   export const githubUsername = "SSGamingUnity-3D";
    ```
 
 7. Start the development server to view the results
